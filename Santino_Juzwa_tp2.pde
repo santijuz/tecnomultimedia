@@ -1,6 +1,7 @@
 /*Santino Juzwa
 Legajo 94788/4
 Video : https://youtu.be/OcwW3ykn0rw
+LEER FINAL DEL CODIGO
 */
 
 float tiempo;
@@ -106,3 +107,11 @@ void keyPressed() {
     resetVariables(tiempo);
   }
 }
+
+/*profe alfinal pude resolver el tema de resetear las variables
+en ves de tiempo = 0; como esta puesto en este codigo
+tendria que poner frameCount = 0;
+obviamente no lo voy a corregir ya que paso el tiempo y ademas en el video
+explique que no sabia como hacerlo
+pero nada, para que averigue como hacerlo
+*/
