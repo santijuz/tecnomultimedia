@@ -1,3 +1,6 @@
+/////////////////////Santino Juzwa 94788/9
+//////////////////// link video https://youtu.be/oBR_VW-63yA
+
 let j;
 //let principeSprite; // Variable para el sprite del príncipe
 //let principeFrames = 5; // Número de imágenes en el sprite sheet
