@@ -1,3 +1,7 @@
+// SANTINO JUZWA 94788/4
+//LINK YOUTUBE
+// https://youtu.be/vguf8nnUnko
+
 let j;
 let bg;
 let piedraImagen;
