@@ -1,7 +1,5 @@
 /* profe alfianl no supe como hacer para corregir lo que me habias pedido de como 
 le pasaba los estados de la aventura al juego, lo que si hice fue hacer uso de la clase boton.
- En las pantallas donde se elige de lado no vi necesario crear una instancia de la clase boton ya es solo hacer el calculo
- si el mouse paso la mitad de la pantalla o no, ademas no se dibuja nada
 */
 
 class Juego {
